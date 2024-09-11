@@ -87,7 +87,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Got something to say? Tell me!
     form:
       type: FormBlock
       elementId: sign-up-form
