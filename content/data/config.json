@@ -76,7 +76,7 @@
             "phoneAltText": "My phone number",
             "email": "joseph@josephtylerthomas.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Made with <3 in Illinois",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
