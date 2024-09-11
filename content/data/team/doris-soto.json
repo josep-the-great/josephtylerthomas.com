@@ -1,9 +1,5 @@
 {
     "type": "Person",
     "firstName": "Bot",
-    "lastName": "",
-    "image": {
-        "type": "ImageBlock",
-        "altText": "Doris Soto photo"
-    }
+    "lastName": ""
 }
