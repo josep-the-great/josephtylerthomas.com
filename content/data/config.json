@@ -77,7 +77,7 @@
             "email": "joseph@josephtylerthomas.com",
             "emailAltText": "My email",
             "address": "Made with <3 in Illinois",
-            "addressAltText": "My address"
+            "addressAltText": "Made with <3 in Illinois"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
