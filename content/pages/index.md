@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'The one, The only,Joseph Tyler Thomas'
+    title: "The one, The ONLY\_ \_ \_ \_ \_ \_ \_ JOSEPH Tyler Thomas"
     subtitle: ''
     styles:
       self:
