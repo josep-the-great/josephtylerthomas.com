@@ -69,16 +69,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "1234567890",
-            "phoneAltText": "My phone number",
-            "email": "joseph@josephtylerthomas.com",
-            "emailAltText": "My email",
-            "address": "Made with <3 in Illinois",
-            "addressAltText": "Made with <3 in Illinois"
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
             "self": {
