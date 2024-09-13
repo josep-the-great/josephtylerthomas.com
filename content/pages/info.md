@@ -86,6 +86,8 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
+        margin:
+          - ml-1
       title:
         textAlign: left
       subtitle:
