@@ -13,15 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >+
+      ## Hey I’m Joseph! I like to work on computers and other assorted
+      technology. You can find me on Facebook, Twitter, Instagram, and here.
+
     styles:
       self:
         height: auto
@@ -63,25 +58,21 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        url: /images/OIP.jpg
+        altText: Smoking Jayson's Pool Hall
+        caption: ''
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+        url: /images/AO.webp
+        altText: AO
+        caption: Caption of the image
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
