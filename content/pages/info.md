@@ -64,7 +64,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/AO.webp
-        altText: altText of the image
+        altText: AO
         caption: Caption of the image
         elementId: ''
     spacing: 3
