@@ -60,7 +60,7 @@ sections:
       - type: ImageBlock
         url: /images/OIP.jpg
         altText: Smoking Jayson's Pool Hall
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     spacing: 3
     columns: 5
