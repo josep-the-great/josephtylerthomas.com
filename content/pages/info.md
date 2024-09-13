@@ -87,7 +87,7 @@ sections:
         borderStyle: none
         borderColor: border-dark
         margin:
-          - ml-1
+          - ml-0
           - mr-0
       title:
         textAlign: left
