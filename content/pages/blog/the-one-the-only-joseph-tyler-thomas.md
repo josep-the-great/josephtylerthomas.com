@@ -26,3 +26,4 @@ backgroundImage:
   opacity: 100
 author: content/data/team/joseph-tyler-thomas.json
 ---
+The Joseph Tyler Thomas blog has returned! I have come back with a new website to share, listen, and interact with you. 
