@@ -2,9 +2,7 @@
 type: PostLayout
 title: 'The One, The Only, Joseph Tyler Thomas'
 date: '2024-10-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: The Joseph Tyler Thomas blog has returned!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
